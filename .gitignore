@@ -1,0 +1,10 @@
+out/
+*.o
+*.elf
+*.img
+*.zzc
+*.gz
+.vscode/
+.idea/
+.DS_Store
+*.swp
