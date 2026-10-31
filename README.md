@@ -179,3 +179,6 @@ exit
 重新进入无需重装
 proot-distro login ubuntu --bind /storage/emulated/0:/host
 cd /host/Catin
+作者依旧是那个2014出生的这也是那个系统的前身。希望有人来改
+外国人自己来翻译。
+Foreigners translate it themselves.
